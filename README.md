@@ -1,8 +1,8 @@
 # STM32G431 NASE Board
 
 <div style="text-align: center;">
-  <img src="Demo_Board.png" alt="Demo Board" style="width: 450px; max-width: 100%; height: auto; display: block; margin: 0 auto;"/>
-  <p><em>Demo Board Image (replace with actual image of your board)</em></p>
+  <img src="docs/pics/Demo_Board.png" alt="Demo Board" style="width: 450px; max-width: 100%; height: auto; display: block; margin: 0 auto;"/>
+  <p><em>Demo Board</em></p>
 </div>
 
 ## Overview
