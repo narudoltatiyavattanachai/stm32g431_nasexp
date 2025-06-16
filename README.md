@@ -8,20 +8,11 @@
 ## Overview
 Testing Sample A2 Board for Slave & Master Traffic Controller
 
-## Features
-- STM32G431RB microcontroller
-- USB Type-C connectivity
-- On-board debugger
-- Multiple GPIO interfaces
-- Power management features
 
-## Getting Started
-1. Clone the repository
-2. Open the project in your preferred IDE (STM32CubeIDE, Keil, etc.)
-3. Build and flash the firmware
-
-## Pin Configuration
-*Add your pin configuration details here*
-
-## License
-*Specify your license here*
+## Software Development Target
+1) SRAM Backup Flash Memory for Application Fallback and Update
+2) Bootloader Firmware Upgrade via Ethernet Port
+3) MicroROS(Slave) communication with ROS-Agent (Master) via Ethernet
+4) CANFD Radar Data Acquisition & Forwarding to ROS-Agent via Ethernet
+5) Offline microUSB firmware upgrade
+6) RTC Time Base Event Trigger
